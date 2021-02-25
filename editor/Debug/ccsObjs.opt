@@ -1,0 +1,1 @@
+"./drivers/touch.obj" "./drivers/ili9341_240x320x262K.obj" "./utils/uartstdio.obj" "./startup_ccs.obj" "./main.obj" -l"C:\ti\TivaWare\driverlib\ccs\Debug\driverlib.lib" -l"C:\ti\TivaWare\grlib\ccs\Debug\grlib.lib" -l"C:\ti\TivaWare\usblib\ccs\Debug\usblib.lib" -l"libc.a" "../lm4f232h5qd.cmd" 
